@@ -4,3 +4,11 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
+table {
+    background-color: #43A5BE;
+    border-collapse:collapse;
+    width:100%;
+}
+th,td{
+    border: 1px solid #BE398D;
+}
