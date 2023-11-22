@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #131212;
 }
 table {
-    background-color: #43A5BE;
+    background-color: #51d1F6;
     border-collapse:collapse;
     width:100%;
 }
 th,td{
-    border: 1px solid #BE398D;
+    border: 1px solid #ffffff;
 }
